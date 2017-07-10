@@ -2,7 +2,7 @@
 Well, this is my first blog, and first blogpost, so I'm new here, hope I'll get better at writing/being inspired and stuff.
 I just get the idea of making a list for future blog entries, that will be a good start.
 
-This post is about why I'm doing this blog, and it's simple, I kind of want to do a blog to commit and try marketing myself in a discipline from some time.
+This post is about why I'm doing this blog, and it's straightforward, I wanted to do a blog to commit and try marketing myself in a discipline, I started to code.
 So here we are.
 
 ### Background 
