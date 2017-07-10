@@ -2,10 +2,7 @@
 Well, this is my first blog, and first blogpost, so I'm new here, hope I'll get better at writing/being inspired and stuff.
 I just get the idea of making a list for future blog entries, that will be a good start.
 
-This post is about why I'm doing this blog, and it's simple, I kind of want to do a blog to commit and try marketing myself in a discipline from some time, and as says some quote I've read I didn't checked the origin:
-
-> The best time to plant a tree was 20 years ago. The second best time is now.
-
+This post is about why I'm doing this blog, and it's simple, I kind of want to do a blog to commit and try marketing myself in a discipline from some time.
 So here we are.
 
 ### Background 
