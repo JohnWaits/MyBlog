@@ -48,3 +48,9 @@ I've been recommended ESLint with the [Airbnb JavaScript Style Guide](https://gi
 I hope you enjoyed this article, and that I convinced you to think about writing beautiful readable code, and using a linter if you were not already!
 Do you have any other recommendations to improve this post, or any advice?  
 Feel free to contact me.
+
+
+_*sources:_  
+https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#code-comments  
+https://improvingsoftware.com/2011/06/27/5-best-practices-for-commenting-your-code/  
+https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41  
