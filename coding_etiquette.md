@@ -25,11 +25,11 @@ You should try to be as expressive as possible using clever variable names, and 
 There are two different ways to comment on code:
 
 ```javascript
-  // This is a single-line comment, used to comment on top of a line, or at the end of a line
+  // This is a single-line comment, used on top, or at the end of a line
 
-  /* This is
-        a multiline comment, if you have to write several lines of explanation, 
-	            that can also be used in the middle of a line. */
+  /* This is a multiline comment, 
+       if you have to write several lines of explanation, 
+	   that can also be used in the middle of a line. */
 ```
 
 
