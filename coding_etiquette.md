@@ -1,5 +1,6 @@
 # Coding Etiquette
 
+Today I'm going to write about methods to make other developers hate you less!  
 Unless you write in machine code, the langages you use are high level, simplified to make it easier for humans to write and read them.
 
 ![machine code](http://i.imgur.com/X8Bojtu.png)
@@ -45,5 +46,5 @@ You really should add one to your editor now.
 I've been recommended ESLint with the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
 
 I hope you enjoyed this article, and that I convinced you to think about writing beautiful readable code, and using a linter if you were not already!
- _Do you have any other recommendations?_
-_What linter do you use and why?_
+Do you have any other recommendations to improve this post, or any advice?  
+Feel free to contact me.
