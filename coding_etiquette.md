@@ -51,6 +51,6 @@ Feel free to contact me.
 
 
 _*sources:_  
-https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#code-comments  
-https://improvingsoftware.com/2011/06/27/5-best-practices-for-commenting-your-code/  
-https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41  
+[https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#code-comments](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md#code-comments)  
+[https://improvingsoftware.com/2011/06/27/5-best-practices-for-commenting-your-code](https://improvingsoftware.com/2011/06/27/5-best-practices-for-commenting-your-code/)  
+[https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41](https://medium.freecodecamp.org/grabs-front-end-guide-for-large-teams-484d4033cc41)  
