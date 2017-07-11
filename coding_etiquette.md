@@ -44,6 +44,6 @@ Increasing the overall readability, quality and homogeneity of your work.
 You really should add one to your editor now.
 I've been recommended ESLint with the [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript).
 
-###### Ok, so after reading this, I hope I convinced you to think about writing beautiful readable code, and using a linter if you were not already.
-_Do you have any other recommendations?_
+I hope you enjoyed this article, and that I convinced you to think about writing beautiful readable code, and using a linter if you were not already!
+ _Do you have any other recommendations?_
 _What linter do you use and why?_
